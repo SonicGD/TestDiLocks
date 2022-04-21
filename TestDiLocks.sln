@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDiLocks", "TestDiLocks\TestDiLocks.csproj", "{6197F63B-8194-4AF9-8623-C6A52D1B85B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6197F63B-8194-4AF9-8623-C6A52D1B85B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6197F63B-8194-4AF9-8623-C6A52D1B85B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6197F63B-8194-4AF9-8623-C6A52D1B85B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6197F63B-8194-4AF9-8623-C6A52D1B85B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
